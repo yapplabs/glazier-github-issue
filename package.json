@@ -6,7 +6,7 @@
       "unauthenticatedGithubApi",
       "authenticatedGithubApi"
     ],
-    "assetHost": "http://glazier.s3.amazonaws.com",
+    "assetHost": "https://glazier.s3.amazonaws.com",
     "handlesIntents": [
       "showIssue"
     ]
