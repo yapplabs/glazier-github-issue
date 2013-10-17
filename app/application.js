@@ -11,6 +11,6 @@ App.Router.map(function(){
 });
 
 App.deferReadiness();
-requireModule('templates');
+require('templates');
 
 export default App;
